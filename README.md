@@ -1,1 +1,1 @@
-# Lab1-Mineria
+# Lab 2 - Mineria de Datos
